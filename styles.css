@@ -1,0 +1,136 @@
+/* Font Imports */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amiri&family=Noto+Serif&display=swap');
+body {
+	margin:0;
+	padding:0;
+	
+}
+* {
+	box-sizing:border-box;
+}
+
+a {
+	text-decoration: none;
+	color:none;
+}
+hr {
+	width:30%;
+}
+.navbar {
+	height:65px;
+	display:flex;
+	justify-content: center;
+	background-color:white;
+	margin-bottom:0;
+	position: sticky;
+	top:0;
+	z-index:10;
+	border-bottom: 1px solid #7d7d7d;
+}
+
+.navbar nav {
+	width:100px;
+	height:65px;
+	line-height: 65px;
+	text-align:center;
+	background-color: white;
+	cursor:pointer;
+	font-weight:600;
+	font-family: "Noto Serif", serif;
+	border-bottom: 1px solid #7d7d7d;
+	
+}
+.navbar a {
+	color:black;
+}
+
+.navbar nav:hover {
+	background: #f5f5f5;
+	transition: all .3s;
+}
+
+.vert-center {
+	vertical-align: middle;
+}
+header {
+	margin-top: -67px;
+	width:100%;
+	background-repeat: no-repeat;
+	background-image:url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/upwk61689169-wikimedia-image.jpg?w=1200&h=1200&dpr=1&fit=clip&crop=default&fm=jpg&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=2d6034bcd2df2f24204d5f6e15c6fdde);
+	background-position: 50% 24%;
+	background-size: 100%;
+	line-height: 500px;
+	filter: grayscale(70%);
+}
+header h1 {
+	
+	text-align: center;
+	font-family: "Noto Serif", serif;
+	font-size:100px;
+	color:white;
+	
+}
+
+#promotionals {
+	height:1000px;
+}
+
+.promotional {
+	width:400px;
+	height:400px;
+	background-color:green;
+	position:relative;
+}
+.promotional .text {
+	width: 360px;
+	background-color: rgba(255,205,0,.5);
+	float:right;
+	top:200px;
+	padding:8px;
+	position:absolute;
+	border-radius: 0 8px 8px 0;
+	z-index:2;
+}
+.text h2 {
+	font-family:"Noto Serif";
+	margin:0;
+	color:white;
+}
+.text p {
+	font-family:"Amiri";	
+	margin:0;
+	color: #E7E7E7;
+}
+
+.promotional img {
+	object-fit:cover;
+	width:400px;
+	height:400px;
+	position:relative;
+	top:0;
+	filter:grayscale(100%);
+	cursor:pointer;
+	border-radius:4px;
+}
+
+
+.promotional img:hover {
+	filter:grayscale(70%);
+	transition: .3s all;
+	transform: scale(1.1);
+	border-radius:4px;
+	
+}
+.promotional img:not(:hover) {
+	filter:grayscale(100%);
+	transition: .3s all;
+	transform: scale(1);
+	border-radius:4px;
+}
+
+.img-wrapper {
+	overflow:hidden;
+	border-radius:4px;
+
+}
