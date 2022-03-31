@@ -4,18 +4,154 @@
 body {
 	margin:0;
 	padding:0;
-	
+	text-align:center;
 }
 * {
 	box-sizing:border-box;
 }
+/*Once upon a midnight dreary, while I pondered, weak and weary,
+Over many a quaint and curious volume of forgotten lore—
+    While I nodded, nearly napping, suddenly there came a tapping,
+As of some one gently rapping, rapping at my chamber door.
+“’Tis some visitor,” I muttered, “tapping at my chamber door—
+            Only this and nothing more.”
 
+    Ah, distinctly I remember it was in the bleak December;
+And each separate dying ember wrought its ghost upon the floor.
+    Eagerly I wished the morrow;—vainly I had sought to borrow
+    From my books surcease of sorrow—sorrow for the lost Lenore—
+For the rare and radiant maiden whom the angels name Lenore—
+            Nameless here for evermore.
+
+    And the silken, sad, uncertain rustling of each purple curtain
+Thrilled me—filled me with fantastic terrors never felt before;
+    So that now, to still the beating of my heart, I stood repeating
+    “’Tis some visitor entreating entrance at my chamber door—
+Some late visitor entreating entrance at my chamber door;—
+            This it is and nothing more.”
+
+    Presently my soul grew stronger; hesitating then no longer,
+“Sir,” said I, “or Madam, truly your forgiveness I implore;
+    But the fact is I was napping, and so gently you came rapping,
+    And so faintly you came tapping, tapping at my chamber door,
+That I scarce was sure I heard you”—here I opened wide the door;—
+            Darkness there and nothing more.
+
+    Deep into that darkness peering, long I stood there wondering, fearing,
+Doubting, dreaming dreams no mortal ever dared to dream before;
+    But the silence was unbroken, and the stillness gave no token,
+    And the only word there spoken was the whispered word, “Lenore?”
+This I whispered, and an echo murmured back the word, “Lenore!”—
+            Merely this and nothing more.
+
+    Back into the chamber turning, all my soul within me burning,
+Soon again I heard a tapping somewhat louder than before.
+    “Surely,” said I, “surely that is something at my window lattice;
+      Let me see, then, what thereat is, and this mystery explore—
+Let my heart be still a moment and this mystery explore;—
+            ’Tis the wind and nothing more!”
+
+    Open here I flung the shutter, when, with many a flirt and flutter,
+In there stepped a stately Raven of the saintly days of yore;
+    Not the least obeisance made he; not a minute stopped or stayed he;
+    But, with mien of lord or lady, perched above my chamber door—
+Perched upon a bust of Pallas just above my chamber door—
+            Perched, and sat, and nothing more.
+
+Then this ebony bird beguiling my sad fancy into smiling,
+By the grave and stern decorum of the countenance it wore,
+“Though thy crest be shorn and shaven, thou,” I said, “art sure no craven,
+Ghastly grim and ancient Raven wandering from the Nightly shore—
+Tell me what thy lordly name is on the Night’s Plutonian shore!”
+            Quoth the Raven “Nevermore.”
+
+    Much I marvelled this ungainly fowl to hear discourse so plainly,
+Though its answer little meaning—little relevancy bore;
+    For we cannot help agreeing that no living human being
+    Ever yet was blessed with seeing bird above his chamber door—
+Bird or beast upon the sculptured bust above his chamber door,
+            With such name as “Nevermore.”
+
+    But the Raven, sitting lonely on the placid bust, spoke only
+That one word, as if his soul in that one word he did outpour.
+    Nothing farther then he uttered—not a feather then he fluttered—
+    Till I scarcely more than muttered “Other friends have flown before—
+On the morrow he will leave me, as my Hopes have flown before.”
+            Then the bird said “Nevermore.”
+
+    Startled at the stillness broken by reply so aptly spoken,
+“Doubtless,” said I, “what it utters is its only stock and store
+    Caught from some unhappy master whom unmerciful Disaster
+    Followed fast and followed faster till his songs one burden bore—
+Till the dirges of his Hope that melancholy burden bore
+            Of ‘Never—nevermore’.”
+
+    But the Raven still beguiling all my fancy into smiling,
+Straight I wheeled a cushioned seat in front of bird, and bust and door;
+    Then, upon the velvet sinking, I betook myself to linking
+    Fancy unto fancy, thinking what this ominous bird of yore—
+What this grim, ungainly, ghastly, gaunt, and ominous bird of yore
+            Meant in croaking “Nevermore.”
+
+    This I sat engaged in guessing, but no syllable expressing
+To the fowl whose fiery eyes now burned into my bosom’s core;
+    This and more I sat divining, with my head at ease reclining
+    On the cushion’s velvet lining that the lamp-light gloated o’er,
+But whose velvet-violet lining with the lamp-light gloating o’er,
+            She shall press, ah, nevermore!
+
+    Then, methought, the air grew denser, perfumed from an unseen censer
+Swung by Seraphim whose foot-falls tinkled on the tufted floor.
+    “Wretch,” I cried, “thy God hath lent thee—by these angels he hath sent thee
+    Respite—respite and nepenthe from thy memories of Lenore;
+Quaff, oh quaff this kind nepenthe and forget this lost Lenore!”
+            Quoth the Raven “Nevermore.”
+
+    “Prophet!” said I, “thing of evil!—prophet still, if bird or devil!—
+Whether Tempter sent, or whether tempest tossed thee here ashore,
+    Desolate yet all undaunted, on this desert land enchanted—
+    On this home by Horror haunted—tell me truly, I implore—
+Is there—is there balm in Gilead?—tell me—tell me, I implore!”
+            Quoth the Raven “Nevermore.”
+
+    “Prophet!” said I, “thing of evil!—prophet still, if bird or devil!
+By that Heaven that bends above us—by that God we both adore—
+    Tell this soul with sorrow laden if, within the distant Aidenn,
+    It shall clasp a sainted maiden whom the angels name Lenore—
+Clasp a rare and radiant maiden whom the angels name Lenore.”
+            Quoth the Raven “Nevermore.”
+
+    “Be that word our sign of parting, bird or fiend!” I shrieked, upstarting—
+“Get thee back into the tempest and the Night’s Plutonian shore!
+    Leave no black plume as a token of that lie thy soul hath spoken!
+    Leave my loneliness unbroken!—quit the bust above my door!
+Take thy beak from out my heart, and take thy form from off my door!”
+            Quoth the Raven “Nevermore.”
+
+    And the Raven, never flitting, still is sitting, still is sitting
+On the pallid bust of Pallas just above my chamber door;
+    And his eyes have all the seeming of a demon’s that is dreaming,
+    And the lamp-light o’er him streaming throws his shadow on the floor;
+And my soul from out that shadow that lies floating on the floor
+            Shall be lifted—nevermore!
+ */
 a {
 	text-decoration: none;
 	color:none;
 }
 hr {
 	width:30%;
+	margin:40px auto;
+}
+
+h1, h2, h3, h4, h5 ,h6 {
+	font-family: "Noto Serif", sans-serif
+}
+
+h2[class="title"] {
+	font-size:60px;
+	margin:0;
+	
 }
 .navbar {
 	height:65px;
@@ -54,37 +190,49 @@ hr {
 	vertical-align: middle;
 }
 header {
+	position:relative;
 	margin-top: -67px;
 	width:100%;
 	background-repeat: no-repeat;
-	background-image:url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/upwk61689169-wikimedia-image.jpg?w=1200&h=1200&dpr=1&fit=clip&crop=default&fm=jpg&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=2d6034bcd2df2f24204d5f6e15c6fdde);
-	background-position: 50% 24%;
+	background-image:url(https://images.squarespace-cdn.com/content/v1/5eba7fea98fbc259479d5c4a/1590421201417-OPNZ1VG16IAYSZRVQW6O/Cello-Banner.jpg?format=1500w);
 	background-size: 100%;
+	background-position: center;
 	line-height: 500px;
-	filter: grayscale(70%);
+	height:500px;
+	filter: grayscale(100%);
 }
 header h1 {
-	
 	text-align: center;
 	font-family: "Noto Serif", serif;
-	font-size:100px;
+	font-size:150px;
 	color:white;
 	
 }
+header p {
+	position:absolute;
+	top:75px;
+	left:30%;
+	color:white;
+	font-size:20px;
+	font-family: "Amiri", sans-serif;
+}
+
 
 #promotionals {
-	height:1000px;
+	display: flex;
+	justify-content: center;
+	margin: 50px 0;
 }
 
 .promotional {
 	width:400px;
 	height:400px;
-	background-color:green;
 	position:relative;
+	display:flex;
 }
 .promotional .text {
 	width: 360px;
-	background-color: rgba(255,205,0,.5);
+	background-color: rgba(255,205,0,.8);
 	float:right;
 	top:200px;
 	padding:8px;
@@ -100,7 +248,7 @@ header h1 {
 .text p {
 	font-family:"Amiri";	
 	margin:0;
-	color: #E7E7E7;
+	color: #f5f5f5;
 }
 
 .promotional img {
@@ -129,8 +277,40 @@ header h1 {
 	border-radius:4px;
 }
 
+.text hr {
+	border-color:white;
+	width:150px;
+}
+
+p[class="center"] {
+	width:600px;
+	font-size:20px;
+	font-family:"Amiri";
+	margin:0 auto;
+	margin-top:30px;
+}
+
 .img-wrapper {
 	overflow:hidden;
-	border-radius:4px;
-
+	width:400px;
+	height:400px;
+	border-radius:20px;
 }
+
+.pr-block {
+	margin:0 25px;
+}
+
+#forward, #back {
+	font-size:30px;
+	font-weight:600px;
+	cursor:pointer;
+	margin: 0 10px;
+}
+#wheel-img {
+	width:500px;
+	height:500px;
+	margin:0 auto;
+	background-size:contain;
+}
+
