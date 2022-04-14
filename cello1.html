@@ -1,0 +1,92 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Sqaggin Cello</title>
+<link href="./general.css" rel="stylesheet" type="text/css">
+<link href="product.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+	<div class = "navbar">
+		<a href="index.html"><img id="logo" src="./awesome.png" alt="placeholder"></a>
+		<div class="holder"><a href="cellos.html"><nav>Cellos</nav></a></div>
+		<div class="holder"><a href=""><nav>Violins</nav></a></div>
+		<div class="holder"><a href=""><nav>Violas</nav></a></div>
+	
+	</div>
+	<section>
+		<main>
+		<div class="holder info">
+			<h1>Greene &amp; Co Professional 2022 1/4</h1>
+			
+			<p class="description">
+				The <strong>Greene &amp; Co Professional 2022 1/4</strong> is the ultimate cello for the beginner, intermediate, and advanced student. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam velit nulla atque commodi, repudiandae laborum harum. Optio dolores aperiam, illo dicta hic totam impedit voluptas, saepe, provident consequuntur incidunt alias..
+			</p>
+			<div class="price">
+				Price: $300
+			</div>
+			<hr>
+			<h2>Customer Ratings</h2>
+			<div class="rating big">
+				<span class="gold">★★★★</span><span class="dark">★</span>
+			</div>
+			<div id="meters">
+				<div class="meter">
+					<div style="width:80%;" class="fill"></div>
+					5 Stars
+				</div>
+				<div class="meter">
+					4 Stars
+					<div style="width:15%;" class="fill"></div>
+				</div>
+				<div class="meter">
+					3 Stars
+					<div style="width:3%;" class="fill"></div>
+				</div>
+				<div class="meter">
+					2 Stars
+					<div style="width:1%;" class="fill"></div>
+				</div>
+				<div class="meter">
+					1 Stars
+					<div style="width:1%;" class="fill"></div>
+				</div>
+			</div>
+			
+		</div>
+		<div class="holder">
+			<img src="https://www.vivacemusic.com.au/wp-content/uploads/2019/04/Amati-FirstCello_1.jpg" alt="Picture of cello" title = "Greene and Co Professional 2022 1/4">
+			<div class="buy">
+				<p>Arrives in <span class="ship-time">12 days</span>.</p>
+				<p>Ships to <span><strong>4915 Steelhead Av.</strong></span><span class="not-addr" title="Not your address?">?</span></p>
+				<button id="add-to-cart">Add to Cart</button>
+			</div>
+		</div>
+	</main>
+	</section>
+	
+	<footer>
+		<div class="item" id="addresses">
+			<h3>Our Stores</h3>
+			<address>1949 Plenty Street</address>
+			<address>4915 Stein Avenue</address>
+			<address>9360 Truth Street</address>
+		</div>
+		<div class="item" id="contact">
+			<h3>Contact Us</h3>
+			<p>info@greene.co</p>
+			<p>1-800-344-1984</p>
+			<p>Mail Box: 221 Fair Field Avenue, MI</p>
+		</div>
+	</footer>
+	<script>
+		var addToCart = document.querySelector("#add-to-cart");
+		
+		addToCart.addEventListener("click",function(e) {
+			alert("Greene and Co Professional 2022 1/4 added to cart");
+			window.location.href = "cart.html";
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,77 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amiri&family=Noto+Serif&display=swap');
+/* CSS Document */
+
+.size {
+	width:100px;
+	height:30px;
+	font-family: "Noto Serif", sans-serif;
+	cursor:pointer;
+	background-color:rgba(255,205,0,1);
+	border:none;
+	border-radius:2px;
+	transition:all .3s;
+}
+
+.size:hover {
+	text-decoration:underline;
+	background-color:#e6b900;
+}
+
+.products {
+	display:flex;
+	justify-content:center;
+}
+
+.product {
+	box-sizing:border-box;
+	width:200px;
+	height:200px;
+	font-family:"Noto Serif", sans-serif;
+	position:relative;
+	margin:20px;
+	cursor:pointer;
+}
+
+.product img {
+	position:absolute;
+	top:0;
+	left:0;
+	object-fit:cover;
+	width:200px;
+	height:200px;
+	z-index:-1;
+	transition: all .4s;
+	
+}
+
+.product:hover span {
+	text-decoration: underline;
+	color:#111111;
+}
+
+
+.product span {
+	background-color:rgba(255,205,0,.6);
+	display:block;
+	color:#2b2b2b;
+	width:180px;
+	margin: 0 auto;
+	margin-top:100px;
+
+	border-radius:10px;
+	padding:5px;
+	
+}
+.hov-display {
+	height:200px;
+	width:200px;
+	position:absolute;
+	top:0;
+	left:0;
+}
+
+.product:hover > .hov-display {
+	border: 1px solid grey;
+}

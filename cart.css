@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+#cart {
+	background-color:#f0f0f0;
+	height:700px;
+}
+
+#no-items {
+	padding-top: 10%;
+	font-family: "Noto Sans Mono";
+	font-size:20px;
+}
+
+footer {
+	margin-top:0 !important;
+}
